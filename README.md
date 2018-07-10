@@ -5,4 +5,4 @@ Aditya Narayan K J ,
 Aravind Biju ,
 K B Gokul
 
-  Adavnced MEMS based digital hearing aid
+  Adavnced MEMS Based Digital Hearing Aid
